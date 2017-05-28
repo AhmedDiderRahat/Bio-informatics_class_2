@@ -1,0 +1,12 @@
+24 May 2017 : Lab#2 : 309 : 8:30am : MHN 
+---------------------------------------------------
+Task 1
+	genRandDNA(k) function that generates random DNA sequence of length k and returns
+Task 2
+	genRandRNA(k) function that generates random RNA sequence of length k and returns
+Task 3
+	countNt(DNA,isDNA=true) function that shows nucleotide frequencies in percentage of DNA or RNA
+Task 4
+	getRevComplement(DNA,isDNA=true) function that returns complementary sequence of that DNA/RNA
+Task 5
+	convDNAtoRNA(DNA) function converts DNA to RNA
